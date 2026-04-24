@@ -1,5 +1,3 @@
-# CS-141-Sports-and-Data
-
 # CS 141 Sports and Data — Final Project
 
 ## Overview
